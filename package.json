@@ -1,0 +1,35 @@
+{
+  "name": "erc20-token",
+  "version": "1.0.0",
+  "description": "ERC20 token of ChainJoes (CJ)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chainjoes/erc20_token.git"
+  },
+  "keywords": [
+    "erc20",
+    "game",
+    "web3"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chainjoes/erc20_token/issues"
+  },
+  "homepage": "https://github.com/chainjoes/erc20_token#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@truffle/hdwallet-provider": "^2.1.2",
+    "bip39": "^3.0.4"
+  }
+}
