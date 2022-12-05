@@ -3,8 +3,26 @@
 ### Total Supply: 100M 
 ### Symbol: CJ
 
+## Tokenomics
+| |Tokens |Percentage|
+| |-----|--------|
+|Private Sale|2.000.000|2%|
+|Public Sale|6.000.000|6%|
+|Seed|18.000.000|18%|
+|Team|16.000.000|16%|
+|Liquidity|4.000.000|4%|
+|Treasury|17.000.000|17%|
+|P2E|35.000.000|35%|
+|Airdrop|2.000.000|2%|
 
+## Features? 
 
+- Do we need mint/burn function included? 
+- Pausable contract? Or just claim after sale. 
+- Voting? 
+- Flash Minting?
+- Snapshots?
+- Proxy to upgrade this contract? 
 
 # How to Deploy
 
