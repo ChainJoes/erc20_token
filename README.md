@@ -5,7 +5,7 @@
 
 ## Tokenomics
 | |Tokens |Percentage|
-| |-----|--------|
+|----------|-----|--------|
 |Private Sale|2.000.000|2%|
 |Public Sale|6.000.000|6%|
 |Seed|18.000.000|18%|
